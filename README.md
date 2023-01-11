@@ -2,7 +2,6 @@
 - 👀 I’m interested in Javascript Backend and Frontend.
 - 🌱 I’m currently working on NestJs, NextJs and React
 - 💞️ I’m looking to collaborate on NestJs, NextJs, React, Nodejs Projects...
-- 📫 How to reach me  ...
 
 <!---
 Kayconfig/Kayconfig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
