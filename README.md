@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kayconfig
-- 👀 I’m interested in Javascript Backend and Frontend.
-- 🌱 I’m currently working on NestJs, NextJs and React
-- 💞️ I’m looking to collaborate on NestJs, NextJs, React, Nodejs Projects...
+- 💻 I have been coding in Typescript for over 5 years, Golang for 1 year.
+- 🌱 Software Engineer :: Backend Focused
 
 <!---
 Kayconfig/Kayconfig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
